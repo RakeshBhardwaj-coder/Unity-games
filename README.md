@@ -1,3 +1,3 @@
 # Unity-games
 
-Go to: >> Githubing >> Scene >> assets(all assets be here...)
+Go to: >> Githubing >> Assets >> Scene (all Scenes be there...)
